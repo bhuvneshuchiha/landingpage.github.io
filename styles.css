@@ -1,0 +1,79 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  max-width: 100%;
+}
+
+
+/* top Section */
+
+.top-container {
+  background-image: url(http://traversymedia.com/downloads/assets/beachshowcase.jpg);
+  height : 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  color:  #926239;
+  font-size: 1.5rem;
+}
+  .btn {
+    margin-top : 10px;
+    padding: 20px 25px;
+    border-radius: 15px;
+    border: 1px solid grey;
+    background-color: transparent;
+  }
+
+
+
+/* Middle Section*/
+
+.second-div{
+  font-size: 17px;
+  background-color:  #926239;
+  color: white;
+  margin :0;
+  padding:25px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+p{
+  margin :0;
+}
+
+.third-div {
+  padding: 25px;
+font-size: 17px;
+text-align: center;
+background-color: #f4f4f4;
+}
+
+.wrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.fourth-div{
+  padding: 25px;
+  font-size:17px;
+  background-color:  #926239;
+}
+
+.fifth-div {
+  padding: 25px;
+  font-size: 17px;
+  background-color: #f4f4f4;
+}
+
+.sixth-div{
+  padding: 25px;
+  font-size: 17px;
+  background-color:  #926239;
+
+}
